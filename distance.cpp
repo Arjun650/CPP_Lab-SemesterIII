@@ -36,7 +36,7 @@ int main(){
     cout<<"enter second distance";
     d2.getdata();
     d3.adddist(d1 , d2);
-    d3.display();
+    d3.display();        
     
 }
 
