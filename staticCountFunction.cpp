@@ -1,6 +1,5 @@
 #include <iostream>
 using namespace std;
-
 class emp{
     int id;
     static int count;
@@ -19,8 +18,6 @@ void emp::getdata(){
     count++;
 }
 int emp::count;
-
-
 
 int main()
 {
