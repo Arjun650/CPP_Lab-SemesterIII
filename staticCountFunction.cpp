@@ -8,10 +8,7 @@ class emp{
     static void getCount(){
         cout<<"the value of count is "<<count<<endl;
     }    
-
-
 };
-
 void emp::getdata(){
     cout<<"enter your id"<<endl;
     cin>>id;
